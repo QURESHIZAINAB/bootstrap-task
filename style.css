@@ -4,4 +4,8 @@
     background-size: cover;
     height: 90vh;
 }
+.col{
+    text-transform: capitalize;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
     
